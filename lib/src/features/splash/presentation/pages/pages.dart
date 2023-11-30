@@ -7,7 +7,7 @@
         Widget build(BuildContext context) {
           return Scaffold(
             appBar: AppBar(
-              title: Text('Splash Page'),
+              title: const Text('Splash Page'),
             ),
             );
             }
