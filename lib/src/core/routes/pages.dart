@@ -1,6 +1,5 @@
 library route_pages;
 
-import 'dart:js';
 
 import 'package:demo/src/features/splash/presentation/pages/pages.dart';
 import 'package:flutter/material.dart';

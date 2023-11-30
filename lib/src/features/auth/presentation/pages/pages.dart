@@ -7,7 +7,7 @@
         Widget build(BuildContext context) {
           return Scaffold(
             appBar: AppBar(
-              title: Text('Auth Page'),
+              title: const Text('Auth Page'),
             ),
             );
             }
